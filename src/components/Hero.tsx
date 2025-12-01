@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <div className="relative bg-gradient-to-br from-blue-950 via-blue-900 to-blue-800 text-white overflow-hidden">
+    <div className="relative bg-gradient-to-br from-blue-950 via-blue-900 to-blue-800 text-white overflow-hidden pt-20">
       <div className="absolute inset-0 bg-[url('https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg')] bg-cover bg-center opacity-20"></div>
 
       <div className="relative z-10 container mx-auto px-6 py-24 lg:py-32">
